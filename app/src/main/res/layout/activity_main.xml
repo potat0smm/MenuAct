@@ -31,9 +31,10 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
-        android:layout_height="400dp"
-        android:layout_gravity="bottom"
-        android:background="@color/white">
+        android:layout_height="450dp"
+        android:background="@color/white"
+        android:layout_gravity="bottom">
+
     </androidx.recyclerview.widget.RecyclerView>
 
     <com.google.android.material.bottomappbar.BottomAppBar
